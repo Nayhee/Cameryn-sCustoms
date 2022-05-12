@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "image": "/shoe4.webp",
+        "name": "Pic1Name",
+        "description" : "Bio about the picture! woo!",
+        "forSale" : false
+      },
+      {
+        "id": 2,
+        "name": "Pic2Name",
+        "image": "/shoe1.jpg",
+        "description" : "Bio about the picture! woo!",
+        "forSale" : false
+      },
+      {
+        "id": 3,
+        "name": "Pic3Name",
+        "image": "/shoe6.webp",
+        "description" : "Bio about the picture! woo!",
+        "forSale" : false
+      },
+      {
+        "id": 4,
+        "name": "Pic4Name",
+        "image": "/shoe5.jpg",
+        "description" : "Bio about the picture! woo!",
+        "forSale" : false
+      },
+      {
+        "id": 5,
+        "name": "Pic5Name",
+        "image": "/shoe3.jpg",
+        "description" : "Bio about the picture! woo!",
+        "forSale" : false
+      }
+      
+    ]
+}
