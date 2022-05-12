@@ -1,0 +1,91 @@
+.logoAndNavItems {
+    display: flex;
+}
+
+.navDiv {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FEF3F1;
+    margin: 0vw;
+    padding: 0vw 2vw 0vw 2vw;
+    transition: color .5s;
+    list-style: none;
+}
+.navLogo {
+    display: flex;
+    flex-direction: column;
+    height: 10vw;
+    justify-items: center;
+    align-content: center;
+    border-radius: 50%;
+    margin: .2vw 0vw .2vw .75vw;
+}
+.navItem {
+    max-width: 25%;
+    padding: 1vw;
+}
+
+.navLink {
+    font-family: 'Gagalin', sans-serif;
+    text-decoration: none;
+    color: #E89098;
+    font-size: 1.25vw;
+    padding: 1.75vw;
+}
+.navLink:hover {
+    font-weight: bold;
+}
+
+
+.header {
+    width: 100%;
+    margin: auto;
+
+}
+
+.headerUnderNav {
+    width: 100%;
+}
+
+
+
+/*
+#CDD6DD
+#CDCACC
+
+
+
+
+
+#FEF3F1 light pink background.
+#27475C dark blue
+#73AFAD green!!
+#F97A53 orange
+#E89098 flower pink
+#F9C461 yellow mehhh
+
+
+
+
+
+
+
+#23BA99
+#51D5B7
+#B1E7B6 light
+
+
+
+#296669 dark green of header 
+#FFF4E4 light background of header
+#F86A69 orange on header;
+
+#FFE5C7 the other brown in header
+
+
+
+#FFF6EE
+#605340
+*/
